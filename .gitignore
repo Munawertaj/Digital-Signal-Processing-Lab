@@ -1,0 +1,8 @@
+test
+*.cph
+*.bin
+*.vscode
+*.exe
+test
+test.cpp
+test.m
